@@ -42,10 +42,6 @@ The script will prompt you to enter a hashtag and the number of tweets you wish 
 
 You can customize the script by changing the hashtag and the number of tweets you wish to like/retweet. You can also modify the time delay between likes/retweets by changing the `time.sleep()` parameter in the script.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 This project was inspired by [this tutorial](https://realpython.com/twitter-bot-python-tweepy/#what-is-a-twitter-bot) by Real Python.
