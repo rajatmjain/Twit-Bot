@@ -31,7 +31,9 @@ pip install tweepy
 ## Usage
 
 To use Twit-Bot, run the following command in your terminal:
+```
 python twitBot.py
+```
 
 
 The script will prompt you to enter a hashtag and the number of tweets you wish to like. It will then like and retweet the tweets that match the hashtag.
